@@ -1,3 +1,4 @@
+
 # PO_Projekt_Semestralny
 
 Tematem projektu jest gra komputerowa, symulacja turnieju bokserskiego. 
@@ -15,7 +16,11 @@ do projektu.
 Harmonogram pracy:
 
 19.05 Stworzenie klas postaci, systemów przydzielania parametrów startowych obiektów, mechaniki modyfikacji tych parametrów.
+
 26.05 Zaprojektowanie systemów walki, symulacji pojedynków botów oraz mechanizmów sterowania pastacią przez gracza i jego walki z komputerem. 
+
 02.06 Wykonanie interfejsu komunikacji programu z graczem, zadbanie o ładny wygląd programu i jego interaktywność oraz intuicyjność w obsłudze. Złożenie wszystkich elementów w całość.
+
 09.06 Skonsultowanie projektu, poprawienie błędów i wprowadzenie zmian.
+
 23.06 Oddanie ostatecznej wersji programu. 
