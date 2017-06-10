@@ -1,7 +1,9 @@
 Projekt semestralny z programowania obiektowego – dokumentacja techniczna
 
 Opis wstępny:
-Przed przeczytaniem dokumentacji technicznej warto przeczytać wcześniej plik readme dostępny na stronie. 
+
+Przed przeczytaniem dokumentacji technicznej warto przeczytać wcześniej plik readme dostępny na stronie.
+
 Na mechanizm działania projektu składa się 5 klas.  Pierwsza jest interfejsem stworzonym pod funkcjonowanie 3 kolejnych,
 których obiekty będą symulowały udział w turnieju. Będzie ona posiadała metody, które zmieniają wartości zmiennych klasowych
 oraz takie, które je zwracają. Wszystkie zmienne będą złożone w strukturę. W niej będą się one dzieliły na takie, które charakteryzują
